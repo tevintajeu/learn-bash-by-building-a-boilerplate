@@ -190,3 +190,4 @@ more README.md
 cd ..
 ls --color=auto -l
 mv website website-boilerplate
+ls --color=auto
