@@ -8,3 +8,4 @@ ls --color=auto
 mkdir assets/icons
 cd assets
 mkdir client/assets/icons
+mv CodeAlly.svg client/assets/icons
