@@ -17,3 +17,5 @@ find
 mkdir clients/assets
 mkdir clients/assets/fonts
 mkdir client/assets/fonts
+touch roboto-bold.woff client/assets/fonts
+touch client/assets/fonts/roboto-bold.woff
