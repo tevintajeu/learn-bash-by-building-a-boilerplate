@@ -2,3 +2,4 @@ mv images/footer.jpeg client/assets/images
 find -name images
 find
 rmdir images
+rm images/background.jpg
