@@ -178,3 +178,8 @@ echo one more thing...
 echo I amde this boilerplate >> README.md
 echo I made this boilerplate >> README.md
 more README.md
+echo I made this boilerplate from the command line >> README.md
+rm README.md
+touch README.md
+echo I made this boilerplate >> README.md
+echo from the command line >> README.md
