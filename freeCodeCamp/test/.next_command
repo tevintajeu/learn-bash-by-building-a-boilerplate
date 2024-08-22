@@ -153,3 +153,7 @@ find client/assets/fonts
 touch client/assets/fonts/lato-bold.tff
 touch client/assets/fonts/lato-bold.ttf
 rm client/assets/fonts/lato-bold.tff
+rm client/assets/fonts/lato-light.tff
+touch client/assets/fonts/lato-light.tff
+rm client/assets/fonts/lato-light.tff
+touch client/assets/fonts/lato-light.ttf
