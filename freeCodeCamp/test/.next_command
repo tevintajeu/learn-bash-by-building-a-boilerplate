@@ -199,3 +199,5 @@ find
 find toms-website
 find website-boilerplate
 clear
+echo goodbye
+echo goodbye terminal
