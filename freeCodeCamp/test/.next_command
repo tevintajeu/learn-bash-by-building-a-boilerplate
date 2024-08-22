@@ -161,3 +161,8 @@ find
 rm --help
 p
 rm --help
+pwd
+ls --color=auto
+cd fonts
+cd ..
+rm -r fonts
