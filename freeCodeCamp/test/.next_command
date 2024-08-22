@@ -157,3 +157,4 @@ rm client/assets/fonts/lato-light.tff
 touch client/assets/fonts/lato-light.tff
 rm client/assets/fonts/lato-light.tff
 touch client/assets/fonts/lato-light.ttf
+find
